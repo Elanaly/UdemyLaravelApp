@@ -1,2 +1,2 @@
-# LEMPimage
-Dockerのイメージファイルです
+# UdemyLaravelApp
+今udemyでlaravelを勉強する際に使っているものです
